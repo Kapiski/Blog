@@ -4,6 +4,7 @@
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel Blog by podunlami Leboss
+ * @branch   BlogLibs
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
 
