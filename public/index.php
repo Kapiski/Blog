@@ -3,7 +3,8 @@
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
- * @package  Laravel On blogLibs
+ * @package  Laravel
+ * @branch   BlogLibs
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
 
